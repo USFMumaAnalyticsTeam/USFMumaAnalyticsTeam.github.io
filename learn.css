@@ -1,8 +1,21 @@
 body {
-  background-color: lightgreen;
+  background-color: Azure;
 }
 
 h1 {
+  font-family: verdana;
+  color: black;
+  text-align: center;
+}
+
+h2 {
+  font-family: verdana;
+  color: black;
+  text-align: center;
+}
+
+h3 {
+  font-family: verdana;
   color: black;
   text-align: center;
 }
